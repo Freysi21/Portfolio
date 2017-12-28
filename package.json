@@ -1,0 +1,24 @@
+{
+  "name": "react-youie",
+  "version": "1.0.0",
+  "description": "React Component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freysi21/React-Youie.git"
+  },
+  "keywords": [
+    "components",
+    "react",
+    "javascript"
+  ],
+  "author": "Árni Freyr Þorsteinsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freysi21/React-Youie/issues"
+  },
+  "homepage": "https://github.com/Freysi21/React-Youie#readme"
+}
