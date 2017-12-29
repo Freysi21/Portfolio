@@ -24,14 +24,15 @@
   "homepage": "https://github.com/Freysi21/React-Youie#readme",
   "dependencies": {
     "node-sass": "^4.5.3",
-    "sass-loader": "^6.0.6",
     "postcss-loader": "^2.0.6",
     "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
+    "sass-loader": "^6.0.6",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
   },
