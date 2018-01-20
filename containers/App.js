@@ -5,7 +5,7 @@ import Slider from '../components/slider';
 import {connect} from 'react-redux';
 import {setMessage} from '../actions/message';
 import {Link} from 'react-router-dom';
-import Parallax from '../components/parallax';
+import {ParallaxBackground} from 'react-youie';
 import CollectionDetailPage from '../components/collection-detail-page';
 
 require('../styles/styles.css')
@@ -32,10 +32,10 @@ class App extends Component {
     return (
       <div>
         <Header/>
-          <Parallax data="./assets/img/1.jpg"/>
-          <Parallax data="./assets/img/2.jpg"/>
-          <Parallax data="./assets/img/3.jpg"/>
-          <Parallax data="./assets/img/4.jpg"/>
+          <ParallaxBackground img="./assets/img/1.jpg"/>
+          <ParallaxBackground img="./assets/img/2.jpg"/>
+          <ParallaxBackground img="./assets/img/3.jpg"/>
+          <ParallaxBackground img="./assets/img/4.jpg"/>
           <CollectionDetailPage>
                     </CollectionDetailPage>
       </div>
