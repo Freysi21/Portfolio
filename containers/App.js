@@ -37,7 +37,7 @@ class App extends Component {
           <ParallaxBackground img="./assets/img/3.jpg"/>
           <ParallaxBackground img="./assets/img/4.jpg"/>
           <CollectionDetailPage>
-                    </CollectionDetailPage>
+          </CollectionDetailPage>
       </div>
     )
   }
